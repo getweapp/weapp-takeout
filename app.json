@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/components/dishes/dishes",
+    "pages/components/take/take"
+  ],
+  "window":{
+    "backgroundColor":"#f4f4f4",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1e90ff",
+    "navigationBarTitleText": "外卖",
+    "navigationBarTextStyle":"white"
+  }
+}
